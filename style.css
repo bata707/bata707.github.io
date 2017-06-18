@@ -1,0 +1,69 @@
+body {
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7;
+    position: relative;
+}
+p {font-size: 16px;}
+.margin {margin-bottom: 85px;}
+.bg-1 {
+    background-color: #3a9c89;
+    color: #ffffff;
+}
+.bg-2 {
+    background-color: #474e5d; /* Dark Blue */
+    color: #ffffff;
+}
+.bg-3 {
+    background-color: #ffffff; /* White */
+    color: #555555;
+}
+.containerE {
+  background-color: #474e5d; /* White */
+  color: #ffffff;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  padding-right: 25px;
+  padding-left: 25px;
+}
+.bg-4 {
+    background-color: #2f2f2f; /* Black Gray */
+    color: #fff;
+}
+.container-fluid {
+    padding-top: 90px;
+    padding-bottom: 70px;
+}
+.margin {
+  border-radius: 50%;
+
+}
+.navbar {
+    opacity: 0.8;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+.navbar-nav  li a:hover {
+    color: #1abc9c !important;
+}
+.navbar-brand {
+  /*-webkit-animation-duration: 0.8s;*/
+}
+.navbar-brand {
+  width: 15px;
+  padding-top: 5px;
+  font-weight: 400;
+  letter-spacing: normal;
+}
+.glyphicon-ok {
+  padding-top: 15px;
+  color: green;
+}
+.form_name , .form_email {
+  display: inline;
+}
